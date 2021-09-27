@@ -1,4 +1,4 @@
-### Hi there 👋
+/*### Hi there 👋*/
 
 <!--
 **Seungmin903/Seungmin903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ### _❤️‍🔥 쓰고싶은거 쓰는란❤️‍🔥_
+  ### _❤️‍🔥 Seungmin903's coding Activity❤️‍🔥_
 
   ![Seungmin903's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmin903&count_private=True&theme=nightowl&show_icons=true)
 </div>

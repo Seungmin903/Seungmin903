@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=300&section=header&text=Seungmin's%20GitHub&fontColor=FFF5EE&animation=twinkling&fontSize=70)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungmin903&count_bg=%2392A8D1&title_bg=%23F7CAC9&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 

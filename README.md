@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  ### _❤️‍🔥 쓰고싶은거 쓰는란❤️‍🔥_
+
+  ![Seungmin903's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmin903&count_private=True&theme=nightowl&show_icons=true)
+</div>

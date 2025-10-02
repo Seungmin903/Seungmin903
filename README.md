@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
   ### _💎✨Seungmin's coding Activity✨💎_
 
-  ![Seungmin903's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmin903&count_private=True&custom_title=Seungmin's&nbsp;github&nbsp;💎&bg_color=0,F7CAC9,92A8D1&title_color=FFFAFA&text_color=FFF5EE)
-</div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin903&layout=compact)

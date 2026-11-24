@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/Seungmin903/EMOUR"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/emour-dark.svg" /><img src="./assets/projects/emour-light.svg" width="48%" alt="EMOUR — 대화 속 감정과 둘만의 순간을 담는 메신저. 실시간 채팅 · AI 감정 분석 · 일상 기록. React · Spring Boot  /  Redis · FastAPI. 저장소로 이동" /></picture></a>
+  <a href="https://biainmaze0507-alt.github.io/emour-landing/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/emour-dark.svg" /><img src="./assets/projects/emour-light.svg" width="48%" alt="EMOUR — 대화 속 감정과 둘만의 순간을 담는 메신저. 실시간 채팅 · AI 감정 분석 · 일상 기록. React · Spring Boot  /  Redis · FastAPI. 랜딩페이지로 이동" /></picture></a>
   <a href="https://github.com/Seungmin903/SM-project-FE"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/foodzero-dark.svg" /><img src="./assets/projects/foodzero-light.svg" width="48%" alt="FoodZero — React Native와 Expo로 만든 모바일 앱. 화면 구성과 탐색 흐름을 구현한 프론트엔드. React Native  ·  Expo  ·  JavaScript. 저장소로 이동" /></picture></a>
 </p>
 

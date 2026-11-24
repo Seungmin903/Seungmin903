@@ -41,4 +41,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Seungmin903/SM-project-FE"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/foodzero-dark.svg" /><img src="./assets/projects/foodzero-light.svg" width="48%" alt="FoodZero — React Native와 Expo로 만든 모바일 앱. 화면 구성과 탐색 흐름을 구현한 프론트엔드. React Native  ·  Expo  ·  JavaScript. 저장소로 이동" /></picture></a>
 </p>
 
+<p align="center">
+  <strong>EMOUR</strong> &nbsp;·&nbsp; <a href="https://biainmaze0507-alt.github.io/emour-landing/">랜딩페이지 ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Seungmin903/EMOUR">GitHub 저장소 ↗</a>
+</p>
+
 <p align="center"><sub>Earlier work &nbsp;·&nbsp; <a href="https://github.com/Seungmin903/SoftwareEngineeringProject">Todolist</a> — 소프트웨어공학 팀 프로젝트</sub></p>

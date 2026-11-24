@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## Projects
-함께 만든 서비스와 직접 쌓아온 경험
 
 </div>
 

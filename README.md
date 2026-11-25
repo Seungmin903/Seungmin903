@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://seungmin903.github.io/dio-landing/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/dio-dark-left.svg" /><img src="./assets/projects/dio-light-left.svg" width="24%" alt="DIO — 랜딩페이지 보기" /></picture></a><a href="https://github.com/Seungmin903/DIO"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/dio-dark-right.svg" /><img src="./assets/projects/dio-light-right.svg" width="24%" alt="DIO — GitHub 저장소 보기" /></picture></a>
-  <a href="https://github.com/Seungmin903/MICON"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/micon-dark.svg" /><img src="./assets/projects/micon-light.svg" width="48%" alt="MICON — 내 목소리에 맞는 노래를 찾는 보컬 연습 앱. 음역·음색 분석과 실시간 음정 피드백. Kotlin · Compose  /  Spring Boot · MySQL. 저장소로 이동" /></picture></a>
+  <a href="https://seungmin903.github.io/micon-landing/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/micon-dark-left.svg" /><img src="./assets/projects/micon-light-left.svg" width="24%" alt="MICON — 랜딩페이지 보기" /></picture></a><a href="https://github.com/Seungmin903/MICON"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/micon-dark-right.svg" /><img src="./assets/projects/micon-light-right.svg" width="24%" alt="MICON — GitHub 저장소 보기" /></picture></a>
 </p>
 
 <p align="center">

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   ### _💎✨Seungmin's coding Activity✨💎_
 
- <a href="https://github.com/Seungmin903/Seungmin903/blob/main/docs/personal-languages.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats/personal-languages-dark.svg" /><img src="./assets/stats/personal-languages-light.svg" width="500" alt="개인 기여 언어 통계 — Git 작성자 기준 현재 남아 있는 본인 소스 코드. Java 55.9%, JavaScript 29.5%, Python 5.9%. 2026-11-27 스냅샷" /></picture></a>
+ <a href="https://github.com/Seungmin903/Seungmin903/blob/main/docs/personal-languages.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats/personal-languages-dark.svg?v=20261127-2" /><img src="./assets/stats/personal-languages-light.svg?v=20261127-2" width="500" alt="개인 기여 언어 통계 — Git 작성자 기준 현재 남아 있는 본인 소스 코드. Java 55.9%, JavaScript 29.5%, Python 5.9%. 2026-11-27 스냅샷" /></picture></a>
 
 </div>
 

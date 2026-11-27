@@ -1,0 +1,17 @@
+{
+  "metric": "non-empty source lines attributed by Git blame",
+  "updated": "2026-11-27",
+  "totalLines": 66591,
+  "languages": {
+    "Java": 37238,
+    "JavaScript": 19664,
+    "Python": 3922,
+    "SQL": 1941,
+    "Kotlin": 1690,
+    "HTML": 1117,
+    "Shell": 549,
+    "CSS": 441,
+    "PowerShell": 29
+  },
+  "automaticUpdate": false
+}
